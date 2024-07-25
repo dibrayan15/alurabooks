@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+
+body {
+   r: var(--cor-de-fundo);
+}
+
+<header> cabeçalho <span> cabeçalho__menu-hamburguer
+    background-color: white;
+}
